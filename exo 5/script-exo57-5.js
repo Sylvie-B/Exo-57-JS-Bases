@@ -7,7 +7,7 @@ console.log(txt02);
 let nbr1 = parseInt(txt01);
 console.log(nbr1);
 
-let nbr2 = parseInt(txt02);
+let nbr2 = parseFloat(txt02);
 console.log(nbr2);
 
 let result = nbr1 + nbr2;
